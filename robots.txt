@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://rehmanexpress.es/sitemap.xml
+Sitemap: https://rehmanexpressmarket.github.io/sitemap.xml
