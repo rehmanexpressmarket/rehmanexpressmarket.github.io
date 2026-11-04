@@ -11,7 +11,7 @@
     whatsapp: '34941640545',
 
     // Texto de fechas (se cambia cada semana)
-    vigencia: 'Válidas del 3 al 9 de noviembre',
+    vigencia: '',
 
     // Una oferta por bloque { ... }. Para quitar una, borra su bloque.
     // Para añadir una, copia un bloque entero y sepáralo con coma.
@@ -19,7 +19,7 @@
     ofertas: [
       {
         etiqueta: 'Oferta',
-        nombre: 'Hojas de plátano Nativo 500 g',
+        nombre: 'Hojas de plátano 500 g',
         descripcion: 'Congeladas, enteras, lavadas y listas para usar. Ideales para hallacas, tamales y platos al vapor.',
         precio: '2 × 5 €',
         precioAnterior: '',
